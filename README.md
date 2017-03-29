@@ -1,4 +1,4 @@
-# django_rest_api
+# Django rest api
 
 ## Setup
 Para instalação execute pip install requeriments.txt
