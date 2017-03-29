@@ -17,7 +17,7 @@ from django.conf.urls import url
 from custom_auth.views import signup, login, profile
 
 urlpatterns = [
-    url(r'^api/v1/sginup', signup),
+    url(r'^api/v1/signup', signup),
     url(r'^api/login', login),
     url(r'^api/profile', profile)
 ]
