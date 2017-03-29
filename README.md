@@ -1,9 +1,10 @@
 # django_rest_api
 
-Setup
+##Setup
 Para instalação execute pip install requeriments.txt
 
-Run
-python manager.py runserver
+##Execução
+Para execução python manager.py runserver
 
-Para utlilização da API documentação [aqui] (http://docs.djangorestapi.apiary.io/)
+##Documentação
+ (http://docs.djangorestapi.apiary.io/)
