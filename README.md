@@ -1,7 +1,7 @@
 # Django rest api
 
 ## Setup
-Para instalação execute pip install requeriments.txt
+Para instalação execute: pip install requeriments.txt
 
 ## Setup database
 Para instalação database: python manager.py migrate
