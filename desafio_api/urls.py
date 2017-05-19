@@ -12,6 +12,7 @@ Class-based views
 Including another URLconf
     1. Import the include() function: from django.conf.urls import url, include
     2. Add a URL to urlpatterns:  url(r'^blog/', include('blog.urls'))
+    teste de configuração de deploy
 """
 from django.conf.urls import url
 from custom_auth.views import signup, login, profile
