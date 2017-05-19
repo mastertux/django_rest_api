@@ -15,6 +15,7 @@ Including another URLconf
     teste de configuração de deploy
     sadfhkdjsahfkljsadhflkjsadkfljsalskjhkjshkjhklf
     sdfgsdfghsdfkjhgkdsjfhgkjdsfhglkjsdhflkjfkgj
+    vamo la mais uma vez
 """
 from django.conf.urls import url
 from custom_auth.views import signup, login, profile
