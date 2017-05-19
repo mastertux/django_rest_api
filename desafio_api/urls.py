@@ -14,6 +14,7 @@ Including another URLconf
     2. Add a URL to urlpatterns:  url(r'^blog/', include('blog.urls'))
     teste de configuração de deploy
     sadfhkdjsahfkljsadhflkjsadkfljsalskjhkjshkjhklf
+    sdfgsdfghsdfkjhgkdsjfhgkjdsfhglkjsdhflkjfkgj
 """
 from django.conf.urls import url
 from custom_auth.views import signup, login, profile
